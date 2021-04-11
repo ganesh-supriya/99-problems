@@ -1,3 +1,4 @@
+#count internal nodes of binary tree
 class Node:
 
     def __init__(self, item):
